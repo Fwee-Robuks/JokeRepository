@@ -1,6 +1,8 @@
 READ THIS BEFORE DOWNLOADING IT!
 
-You can get stopped by clyde (discord bot built into discord) and also might get you banned
+You can get stopped by clyde (discord bot built into discord) 
+
+There is a chance of Getting BANNED!
 
 If your pc is dogshit and you run a discord modification with it (beautiful discord, better discord or powercord) your going to have to 
 
